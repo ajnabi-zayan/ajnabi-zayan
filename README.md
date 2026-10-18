@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Asad Zayan 👋
 
-<!--
-**ajnabi-zayan/ajnabi-zayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Developer | Learning by Building
 
-Here are some ideas to get you started:
+I'm starting my journey in software development and focusing on building a strong foundation in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python
+- C and C++
+- HTML, CSS and JavaScript
+- Git and GitHub
+
+### 🎯 My Goals
+- Build practical coding projects
+- Improve problem-solving skills
+- Develop a portfolio of my own work
+- Explore game development in the future
+
+### 🛠️ My Approach
+Learn the fundamentals, practice consistently, build projects, and improve through feedback.
+
+---
+
+Thanks for visiting my profile!
